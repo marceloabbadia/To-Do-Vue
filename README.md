@@ -1,4 +1,4 @@
-<h1> Lista To-Do em Vue.js </h1> todo-app
+<h1> Lista To-Do em Vue.js </h1> 
 
 <p> Desenvolvi uma lista do tipo TO_DO que aprendi em aula no bootcamp XPE de Front-End. Fiz com Vue.Js e usei botões e ícones do PrimeVue. 
   
